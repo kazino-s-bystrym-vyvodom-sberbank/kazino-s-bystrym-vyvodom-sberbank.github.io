@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-bystrym-vyvodom-sberbank.github.io
+Sitemap: https://kazino-s-bystrym-vyvodom-sberbank.github.io/sitemap.xml
